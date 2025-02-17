@@ -1,1 +1,2 @@
 This is the initial content of the workflow file.
+Added more details to the workflow.
